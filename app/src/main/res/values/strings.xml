@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth App</string>
+    <string name="state_listening">Listening</string>
+    <string name="state_connecting">connecting</string>
+    <string name="state_connected">connected</string>
+    <string name="state_connection_failed">connection failed</string>
+</resources>
